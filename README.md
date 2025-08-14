@@ -1,5 +1,3 @@
-
-
 <h1 align="center">👋 Hi, I'm Aryan Sonawane</h1>
 
 <p align="center">
